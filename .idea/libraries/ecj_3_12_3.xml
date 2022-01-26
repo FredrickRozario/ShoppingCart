@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="ecj-3.12.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/ecj-3.12.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-annotations-api-8.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-api-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-el-api-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-embed-core-8.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-embed-el-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-embed-jasper-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-jasper-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-jasper-el-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-jsp-api-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-juli-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-servlet-api-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-util-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../New folder/New folder/Tomcat jar/tomcat-util-scan-8.5.38.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
